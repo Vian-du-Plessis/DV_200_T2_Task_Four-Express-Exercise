@@ -1,0 +1,25 @@
+{
+  "name": "dv_200_t2_task_four-express-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vian-du-Plessis/DV_200_T2_Task_Four-Express-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vian-du-Plessis/DV_200_T2_Task_Four-Express-Exercise/issues"
+  },
+  "homepage": "https://github.com/Vian-du-Plessis/DV_200_T2_Task_Four-Express-Exercise#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
